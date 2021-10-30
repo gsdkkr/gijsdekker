@@ -1,10 +1,7 @@
 ### Hi there 👋
-- 🔭 I currently work on yet another discord.js Bot!
-- 🌱 I’m currently improving on discord.js (JavaScript)
-- 👯 I’m looking to collaborate on Bots and Templates for bots!
-- 🤔 I’m looking for help with more advanced templates and bots!
-- 💬 Ask me about anything I know! :)
-- 📫 How to reach me: [Twitter](https://twitter.com/potteeMC)
+- 🔭 I currently work on MyCloaks their electron installer.
+- 🌱 I’m currently improving on LUA.
+- 👯 I’m looking to collaborate on website or application designs and development.
+- 🤔 I’m looking for help with more advanced front-end designs and development of both websites and Electron Applications.
+- 📫 How to reach me: [Twitter](https://twitter.com/potteeMC), email: devPottee@gmail.com or via Discord (preferred): Pottee#3094.
 - ⚡ Fun fact: In my freetime I code! What a guess!
-
-<img src="https://github-readme-stats.vercel.app/api?username=PotteeJS&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

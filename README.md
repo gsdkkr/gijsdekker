@@ -6,4 +6,4 @@
 - 📫 How to reach me: [Website](https://pottee.tk/)
 - ⚡ Fun fact: In my freetime I code! What a guess!
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422385906197200906)](hhttps://pottee.tk/)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/422385906197200906)](https://pottee.tk/)

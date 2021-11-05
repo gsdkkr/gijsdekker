@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I currently work on MyCloaks their electron installer.
-- 🌱 I’m currently improving on LUA.
+- 🌱 I’m currently improving on ElectronJS.
 - 👯 I’m looking to collaborate on website or application designs and development.
 - 🤔 I’m looking for help with more advanced front-end designs and development of both websites and Electron Applications.
 - 📫 How to reach me: [Website](https://pottee.tk/)

@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello!%F0%9F%91%8B&fontSize=90)](https://github.com/imPottee)<br>
+[![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hallo!%F0%9F%91%8B&fontSize=90)](https://github.com/imPottee)<br>
 
 # Overview
 Hallo!
